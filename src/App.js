@@ -44,7 +44,7 @@ const App = () => {
 	return (
 		<main>
 			<div className="title">
-				<h2>Color Shades/Tints Generator</h2>
+				<h2>Segundo despliegue de Netlif. Práctica 3-4</h2>
 				<div className="hr-line"></div>
 			</div>
 			<div className="nav-header">
